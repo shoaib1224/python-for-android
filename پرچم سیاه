@@ -1,0 +1,11 @@
+ParchamSiah/
+├── main.py
+├── buildozer.spec
+├── config.py
+├── ai_module.py
+├── payment.py
+├── language_detector.py
+├── ui/
+│   └── main.kv
+└── assets/
+    └── logo.png
